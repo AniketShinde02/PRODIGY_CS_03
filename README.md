@@ -1,3 +1,5 @@
+# PRODIGY_CS_03
+
 # Password Strength Assessment Tool
 
 # This tool evaluates the strength of a password based on various criteria, providing users with feedback on their password's security.
